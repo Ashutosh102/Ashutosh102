@@ -6,7 +6,6 @@
 - 📫 My insta id: https://www.instagram.com/ashutosh_mohanty_99_not_out/
 - my fb id: https://www.facebook.com/ashutosh.mohanty.58958
 - My Twitter id: https://twitter.com/Ashutos56695774?s=09![3c9c7a67-05c3-4f42-84f7-e9007443c98e]
-- (https://user-images.githubusercontent.com/75971776/121721530-fb82ef00-cb01-11eb-99a3-3f83064669ae.jpg)
 
 
 <!---
