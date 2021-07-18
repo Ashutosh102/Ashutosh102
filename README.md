@@ -1,12 +1,20 @@
 ![IMG_20210715_200534](https://user-images.githubusercontent.com/75971776/125806547-f2e8299b-9165-4ac9-82ca-d2ffb28dfa72.jpg)
-- 👋 Hi, I’m Ashutosh Mohanty
-- I am a student of CSE
-- 👀 I’m interested in coding,singing and graphics designing
-- 🌱 I’m currently learning CSE at GIET University,Gunupur,Raygada,Odisha,India
-- 💞️ I’m looking to collaborate on web development
+## Me
+- 👋 Hi, I’m Ashutosh Mohanty, a web developer
+- 🎓 I am a student of CSE
+- 👀 I’m interested in coding,developing,singing and graphics designing
+- 🌱 I’m currently pursuing CSE at GIET University,Gunupur,Raygada,Odisha,India
+- 💞️ I’m looking to contribute on web development
+## Contact
 - 📫 My insta id: https://www.instagram.com/ashutosh_mohanty_99_not_out/
-- my fb id: https://www.facebook.com/ashutosh.mohanty.58958
-- My Twitter id: https://twitter.com/Ashutos56695774?s=09![3c9c7a67-05c3-4f42-84f7-e9007443c98e]
+- 👍 My fb id: https://www.facebook.com/ashutosh.mohanty.58958
+- 🕊️ My Twitter id: https://twitter.com/Ashutos56695774?s=09![3c9c7a67-05c3-4f42-84f7-e9007443c98e]
+- 🖇️ My LinkedIn id: https://www.linkedin.com/in/ashutosh-mohanty-3464a6204
+- 🗨️ My whatsapp number: +917749067820
+## About
+- Looking forward to do more and more open source contribution❤️👍
+- A dedicated and self motivated person💖💖
+- Trying to develop more and develop unique😊❤️ in my way👍
 
 
 <!---
