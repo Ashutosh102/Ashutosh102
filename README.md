@@ -16,6 +16,8 @@
 - A dedicated and self motivated person💖💖
 - Trying to develop more and develop unique😊❤️ in my way👍
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Ashutosh102&theme=highcontrast&show_icons=true&count_private=true)
+
 
 <!---
 Ashutosh102/Ashutosh102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
