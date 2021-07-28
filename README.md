@@ -1,5 +1,5 @@
 ![IMG_20210715_200534](https://user-images.githubusercontent.com/75971776/125806547-f2e8299b-9165-4ac9-82ca-d2ffb28dfa72.jpg)
-## Me
+## Hello!! 👋👋
 - 👋 Hi, I’m Ashutosh Mohanty, a web developer
 - 🎓 I am a student of CSE
 - 👀 I’m interested in coding,developing,singing and graphics designing
