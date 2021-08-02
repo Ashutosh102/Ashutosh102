@@ -8,7 +8,7 @@ _________________________________________
 - 💞️ I’m looking to contribute on web development
 ## Contact
 - 🔗 My Linktree: https://linktr.ee/Ashutosh3815
-- 📬 My Mail id: https://ashutoshmohanty3815@gmail.com
+- 📬 My Mail id: ashutoshmohanty3815@gmail.com
 - 👓 My Insta id: https://www.instagram.com/ashutosh_mohanty_99_not_out/
 - 👍 My FB id: https://www.facebook.com/ashutosh.mohanty.58958
 - 🕊️ My Twitter id: https://twitter.com/Ashutos56695774?s=09![3c9c7a67-05c3-4f42-84f7-e9007443c98e]
