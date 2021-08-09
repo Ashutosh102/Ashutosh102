@@ -60,7 +60,7 @@ _________________________________________
 
 # 📊Full Stats📊
 ----------------------------
-![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashutosh102&theme=yeblu&show_icons=true&count_private=true “Ashutosh's GutHub Stats”)
+![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashutosh102&theme=yeblu&show_icons=true&count_private=true)
 
 
 <!---
