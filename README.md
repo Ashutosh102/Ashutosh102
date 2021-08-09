@@ -12,7 +12,9 @@
 <!-- no need to change these -->
 
 <!-- icons with padding -->
-
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 
 <!-- icons without padding -->
@@ -31,14 +33,14 @@
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-#               Hello!! 👋👋
+# 👋👋 Hello!! 👋👋
 _________________________________________
 - 👋 Hi, I’m Ashutosh Mohanty, a web developer
 - 🎓 I am a student of CSE
 - 👀 I’m interested in coding,developing,singing and graphics designing
 - 🌱 I’m currently pursuing CSE at GIET University,Gunupur,Raygada,Odisha,India
 - 💞️ I’m looking to contribute on web development
-## Contact
+## 📞 Contact 📞
 - 🔗 My Linktree: https://linktr.ee/Ashutosh3815
 - 📬 My Mail id: ashutoshmohanty3815@gmail.com
 - 👓 My Insta id: https://www.instagram.com/ashutosh_mohanty_99_not_out/
@@ -46,18 +48,19 @@ _________________________________________
 - 🕊️ My Twitter id: https://twitter.com/Ashutos56695774?s=09![3c9c7a67-05c3-4f42-84f7-e9007443c98e]
 - 💼 My LinkedIn id: https://www.linkedin.com/in/ashutosh-mohanty-3464a6204
 - 🗨️ My Whatsapp number: +917749067820
-## About
+## 🙋‍♂️ About 🙋‍♂️
 - Looking forward to do more and more open source contribution❤️👍
 - A dedicated and self motivated person💖💖
 - Trying to develop more and develop unique😊❤️ in my way👍
 
-# Stats
+# 📈 Stats 📈
 -----------------------------
-
-
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ashutosh102&theme=outrun&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh102&theme=radical)
+
+# 📊Full Stats📊
+----------------------------
+![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashutosh102&theme=yeblu&show_icons=true&count_private=true “Ashutosh's GutHub Stats”)
 
 
 <!---
