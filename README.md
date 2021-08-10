@@ -1,6 +1,5 @@
 ![IMG_20210715_200534](https://user-images.githubusercontent.com/75971776/125806547-f2e8299b-9165-4ac9-82ca-d2ffb28dfa72.jpg)
-![bitmoji](https://sdk.bitmoji.com/render/panel/78635ad8-866d-4ea0-8e1c-0916f12d2297-3cfce0ae-3373-462c-9c9a-4ba199274535-v1.png?transparent=1&palette=1&width=246)
-# 📱 Socials 📱
+### 📱 Socials 📱
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
@@ -36,6 +35,7 @@
 
 # 👋👋 Hello!! 👋👋
 _________________________________________
+![bitmoji](https://sdk.bitmoji.com/render/panel/78635ad8-866d-4ea0-8e1c-0916f12d2297-3cfce0ae-3373-462c-9c9a-4ba199274535-v1.png?transparent=1&palette=1&width=246)
 - 👋 Hi, I’m Ashutosh Mohanty, a web developer
 - 🎓 I am a student of CSE
 - 👀 I’m interested in coding,developing,singing and graphics designing
