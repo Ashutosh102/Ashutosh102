@@ -32,6 +32,7 @@
 [6]: http://www.github.com/Ashutosh102
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+![Profile View Counter](https://komarev.com/ghpvc/?username=Ashutosh102)
 
 # 👋👋 Hello!! 👋👋
 _________________________________________
