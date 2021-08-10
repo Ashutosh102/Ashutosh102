@@ -3,9 +3,9 @@
 
 <!-- display the social media buttons in your README -->
 
-[![Twitter][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][6.1]][6]
+[![Twitter][1.2]][1]
+[![Facebook][2.2]][2]
+[![GitHub][6.2]][6]
 
 
 <!-- links to social media icons -->
