@@ -4,10 +4,10 @@
 
 <!-- display the social media buttons in your README -->
 
-[![Twitter][1.2]][1]
-[![Facebook][2.2]][2]
-[![GitHub][6.2]][6]
-[![Instagram][7.2]][7]
+[![Twitter][1.2]][1]-----
+[![Facebook][2.2]][2]-----
+[![GitHub][6.2]][6]-----
+[![Instagram][7.2]][7]-----
 [![Linkedin][8.2]][8]
 
 
