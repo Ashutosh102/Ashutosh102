@@ -15,11 +15,11 @@
 <!-- no need to change these -->
 <!-- icons without padding -->
 
-[1.2]: https://user-images.githubusercontent.com/75971776/128903292-3c3a2eb1-8eea-44a6-9bb9-fc7e785f3cca.png (twitter icon without padding)
-[2.2]: https://user-images.githubusercontent.com/75971776/128903148-40c328a7-0083-48f5-8f40-d6901fe5750b.png (facebook icon without padding)
-[6.2]: https://user-images.githubusercontent.com/75971776/128902751-f444c8a5-92b8-4f63-9ed6-1a56ff0a6d2c.png (github icon without padding)
-[7.2]: https://user-images.githubusercontent.com/75971776/128904198-3cec723e-c358-4893-a7ea-c65ea55c34a6.png (github icon without padding)
-[8.2]: https://user-images.githubusercontent.com/75971776/128904819-68eb01e2-e205-4182-bac3-de305db8f0ec.png (github icon without padding)
+[1.2]: https://user-images.githubusercontent.com/75971776/129045325-3b6d6bd8-dadf-42b7-beee-45549d388bd3.png (Twitter icon)
+[2.2]: https://user-images.githubusercontent.com/75971776/129047240-9fa3af01-d708-4383-92f7-0fca27a038dd.png (Facebook icon)
+[6.2]: https://user-images.githubusercontent.com/75971776/129046843-2c5f6272-644b-4c28-bdad-5b1668bf943c.png (GitHub icon)
+[7.2]: https://user-images.githubusercontent.com/75971776/129046392-234db950-b6b0-4ed5-b2c5-7e59ec814429.png (Instagram icon)
+[8.2]: https://user-images.githubusercontent.com/75971776/129047594-47710a32-1088-4a66-9f23-857fcbdd5fdd.png (Linkedin icon)
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
