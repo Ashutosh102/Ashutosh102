@@ -32,7 +32,6 @@
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Ashutosh102)
-
 # 👋👋 Hello!! 👋👋
 _________________________________________
 ![bitmoji](https://sdk.bitmoji.com/render/panel/78635ad8-866d-4ea0-8e1c-0916f12d2297-3cfce0ae-3373-462c-9c9a-4ba199274535-v1.png?transparent=1&palette=1&width=200)
@@ -62,6 +61,7 @@ _________________________________________
 ![bitmoji](https://sdk.bitmoji.com/render/panel/bc9e5458-1bc2-4d87-9f64-ad33ff348cb8-3cfce0ae-3373-462c-9c9a-4ba199274535-v1.png?transparent=1&palette=1&width=200)
 - ![Github stats](https://github-readme-stats.vercel.app/api?username=Ashutosh102&theme=outrun&show_icons=true&count_private=true)
  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh102&theme=radical)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Ashutosh102&theme=onedark)](https://github.com/Ashutosh102/github-profile-trophy)
 
 # 😂 Here is a random joke that'll make you laugh!
 ![bitmoji](https://sdk.bitmoji.com/render/panel/77598159-bde1-481c-b58a-be6cd05b4b7d-3cfce0ae-3373-462c-9c9a-4ba199274535-v1.png?transparent=1&palette=1&width=200)
