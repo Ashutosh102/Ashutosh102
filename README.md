@@ -62,7 +62,7 @@ _________________________________________
 - ![Github stats](https://github-readme-stats.vercel.app/api?username=Ashutosh102&theme=outrun&show_icons=true&count_private=true)
  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh102&theme=radical)
 ### 🏆 GitHub Trophies 🏆
-- [![trophy](https://github-profile-trophy.vercel.app/?username=Ashutosh102&theme=onedark)](https://github.com/Ashutosh102/github-profile-trophy)
+- [![trophy](https://github-profile-trophy.vercel.app/?username=Ashutosh102&theme=juicyfresh&&row=1&column=7)](https://github.com/Ashutosh102/github-profile-trophy)
 
 # 😂 Here is a random joke that'll make you laugh!
 ![bitmoji](https://sdk.bitmoji.com/render/panel/77598159-bde1-481c-b58a-be6cd05b4b7d-3cfce0ae-3373-462c-9c9a-4ba199274535-v1.png?transparent=1&palette=1&width=200)
