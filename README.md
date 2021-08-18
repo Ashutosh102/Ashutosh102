@@ -2,6 +2,8 @@
 <h1 align="center">Profile</h1>
 
 ### 📱 Socials 📱
+<img src="https://user-images.githubusercontent.com/75971776/129924136-dbd50b77-c1fb-4740-bea9-babddecfb0fd.png" height="300" width="300">
+
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
