@@ -39,11 +39,11 @@
 # 👋👋 Hello!! 👋👋
 _________________________________________
 ![bitmoji](https://sdk.bitmoji.com/render/panel/78635ad8-866d-4ea0-8e1c-0916f12d2297-3cfce0ae-3373-462c-9c9a-4ba199274535-v1.png?transparent=1&palette=1&width=200)
-- 👋 Hi, I’m Ashutosh Mohanty, a web developer
+- 👋 Hi, I’m Ashutosh Mohanty, a Web Developer and a opensource enthusiast ☺️👍👍
 - 🎓 I am a student of CSE
 - 👀 I’m interested in coding,developing,singing and graphics designing
 - 🌱 I’m currently pursuing CSE at GIET University,Gunupur,Raygada,Odisha,India
-- 💞️ I’m looking to contribute on web development
+- 💞️ I’m looking to contribute on Web Development
 ## 📞 Contact 📞
 ![bitmoji](https://sdk.bitmoji.com/render/panel/85b1f129-c247-4e43-b1ac-5ea6ca9a660f-3cfce0ae-3373-462c-9c9a-4ba199274535-v1.png?transparent=1&palette=1&width=200)
 - 🔗 My Linktree: https://linktr.ee/Ashutosh3815
