@@ -66,7 +66,9 @@ _________________________________________
 - ![Github stats](https://github-readme-stats.vercel.app/api?username=Ashutosh102&theme=outrun&show_icons=true&count_private=true)
  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh102&theme=radical)
 ### 📈Contribution Graph📈
-- <img src="https://ghchart.rshah.org/Ashutosh102" alt="Ashutosh102's Github chart" />
+- <center><img src="https://ghchart.rshah.org/Ashutosh102" alt="Ashutosh102's Github chart" /></center>
+- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh102&theme=radical)](https://git.io/streak-stats)
+
 ### 🏆 GitHub Trophies 🏆
 - [![trophy](https://github-profile-trophy.vercel.app/?username=Ashutosh102&theme=juicyfresh&&row=1&column=7)](https://github.com/Ashutosh102/github-profile-trophy)
 
