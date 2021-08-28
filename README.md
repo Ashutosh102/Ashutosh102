@@ -68,11 +68,12 @@ _________________________________________
 -----------------------------
 ![bitmoji](https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-3cfce0ae-3373-462c-9c9a-4ba199274535-v1.png?transparent=1&palette=1&width=200)
 ![bitmoji](https://sdk.bitmoji.com/render/panel/bc9e5458-1bc2-4d87-9f64-ad33ff348cb8-3cfce0ae-3373-462c-9c9a-4ba199274535-v1.png?transparent=1&palette=1&width=200)
-- ![Github stats](https://github-readme-stats.vercel.app/api?username=Ashutosh102&theme=outrun&show_icons=true&count_private=true)
+- ![Github stats](https://github-readme-stats.vercel.app/api?username=ashutosh102&show_icons=true&locale=en&theme=outrun)
  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh102&theme=radical)
 ### 📈Contribution Graph📈
 - <center><img src="https://ghchart.rshah.org/Ashutosh102" alt="Ashutosh102's Github chart" /></center>
-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashutosh102&theme=radical)](https://git.io/streak-stats)
+- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashutosh102&theme=radical)](https://git.io/streak-stats)
+ ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh102&show_icons=true&locale=en&layout=compact&theme=radical)
 
 ### 🏆 GitHub Trophies 🏆
 - [![trophy](https://github-profile-trophy.vercel.app/?username=Ashutosh102&theme=juicyfresh&&row=1&column=7)](https://github.com/Ashutosh102/github-profile-trophy)
@@ -87,4 +88,3 @@ _________________________________________
 Ashutosh102/Ashutosh102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
