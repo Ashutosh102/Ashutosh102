@@ -1,5 +1,5 @@
 ![IMG_20210715_200534](https://user-images.githubusercontent.com/75971776/125806547-f2e8299b-9165-4ac9-82ca-d2ffb28dfa72.jpg)
-<h1 align="center">Hi 👋, I'm Ashutosh Mohanty</h1>
+<h1 align="center">Hi 👋, I'm Ashutosh Mohanty<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40" height="40"></h1>
 <h3 align="center">A passionate developer from India</h3>
 <br>
 <h3 align="center">Connect with me📱</h3>
