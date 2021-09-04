@@ -80,7 +80,10 @@ _________________________________________
 ### 🏆 GitHub Trophies 🏆
 - [![trophy](https://github-profile-trophy.vercel.app/?username=Ashutosh102&theme=juicyfresh&&row=1&column=7)](https://github.com/Ashutosh102/github-profile-trophy)
 ### Achievements
-<a href="https://github.com/Ashutosh102/Ashutosh102/files/7110241/ashutosh.pdf"><img src="https://user-images.githubusercontent.com/75971776/132102977-a5abc900-ab17-4268-a282-53112d07feb9.png" height="250" width="180"></a>
+<a href="https://github.com/Ashutosh102/Ashutosh102/files/7110241/ashutosh.pdf" style="border: 3px solid 	#008000;"><img src="https://user-images.githubusercontent.com/75971776/132102977-a5abc900-ab17-4268-a282-53112d07feb9.png" height="250" width="180"></a>
+<a style="border: 3px solid 	#008000;"><img src="https://user-images.githubusercontent.com/75971776/132104826-8ddec08d-0e2c-4c92-b7d8-1c44c7503dee.jpeg" height="250" width="250"></a>
+<img src="https://user-images.githubusercontent.com/75971776/132104937-9b857e46-f01e-40d6-9181-4d88a361dd09.png" height="250" width="220">
+
 
 
 # 😂 Here is a random joke that'll make you laugh!
