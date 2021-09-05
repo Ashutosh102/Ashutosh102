@@ -1,11 +1,8 @@
 ![IMG_20210715_200534](https://user-images.githubusercontent.com/75971776/125806547-f2e8299b-9165-4ac9-82ca-d2ffb28dfa72.jpg)
 <h1 align="center">Hi 👋, I'm Ashutosh Mohanty<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40" height="40"></h1>
 <h3 align="center">A passionate developer from India</h3>
-<p align="center"><img src="https://user-images.githubusercontent.com/75971776/132107060-c807250c-326d-4f27-a693-f38ccaa02d77.gif" align="center"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/75971776/132128053-82c037ad-db80-4916-b447-29aa7327f0d8.gif" align="center"></p>
 
-
-
-<br>
 <h3 align="center">Connect with me📱</h3>
 
 <img src="https://user-images.githubusercontent.com/75971776/129924136-dbd50b77-c1fb-4740-bea9-babddecfb0fd.png" height="230" width="230">
