@@ -1,4 +1,3 @@
-![IMG_20210715_200534](https://user-images.githubusercontent.com/75971776/125806547-f2e8299b-9165-4ac9-82ca-d2ffb28dfa72.jpg)
 <p align="center"><img src="https://user-images.githubusercontent.com/75971776/132641934-01af4e95-5e2f-4b00-9cc5-a1ad20b71aee.png" height="333" width="500"></p>
 
 <h1 align="center">Hi 👋, I'm Ashutosh Mohanty<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40" height="40"></h1>
@@ -43,6 +42,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Ashutosh102)
 # 👋👋 Hello!! 👋👋
 _________________________________________
+![IMG_20210715_200534](https://user-images.githubusercontent.com/75971776/125806547-f2e8299b-9165-4ac9-82ca-d2ffb28dfa72.jpg)
 ![bitmoji](https://sdk.bitmoji.com/render/panel/78635ad8-866d-4ea0-8e1c-0916f12d2297-3cfce0ae-3373-462c-9c9a-4ba199274535-v1.png?transparent=1&palette=1&width=200)
 - 👋 Hi, I’m Ashutosh Mohanty, a Web Developer and a opensource enthusiast ☺️👍👍
 - 🎓 I am a student of CSE
