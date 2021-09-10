@@ -1,7 +1,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/75971776/132641934-01af4e95-5e2f-4b00-9cc5-a1ad20b71aee.png" height="333" width="500"></p>
 <div align="center">
 	<a href="https://github.com/Ashutosh102/Ashutosh102/blob/main/header.svg">
-		<img src="header.svg" width="800" height="70">
+		<img src="header.svg" width="800" height="100">
 	</a>
 	<br>
 </div>
