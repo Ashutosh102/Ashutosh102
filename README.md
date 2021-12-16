@@ -61,7 +61,7 @@ _________________________________________
 ![bitmoji](https://sdk.bitmoji.com/render/panel/85b1f129-c247-4e43-b1ac-5ea6ca9a660f-3cfce0ae-3373-462c-9c9a-4ba199274535-v1.png?transparent=1&palette=1&width=200)
 - 🔗 My Linktree: https://linktr.ee/Ashutosh3815
 - 📬 My Mail id: ashutoshmohanty3815@gmail.com
-- 👓 My Insta id: https://www.instagram.com/ashutosh_mohanty_99_not_out/
+- 👓 My Insta id: https://www.instagram.com/dev_ashu_102/
 - 👍 My FB id: https://www.facebook.com/ashutosh.mohanty.58958
 - 🕊️ My Twitter id: https://twitter.com/Ashutos56695774?s=09
 - 💼 My LinkedIn id: https://www.linkedin.com/in/ashutosh-mohanty-3464a6204
