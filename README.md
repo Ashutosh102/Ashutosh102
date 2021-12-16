@@ -43,7 +43,7 @@
 [1]: https://twitter.com/Ashutos56695774?s=09
 [2]: https://www.facebook.com/ashutosh.mohanty.58958
 [6]: http://www.github.com/Ashutosh102
-[7]: https://www.instagram.com/ashutosh_mohanty_99_not_out/
+[7]: https://www.instagram.com/dev_ashu_102/
 [8]: https://www.linkedin.com/in/ashutosh-mohanty-3464a6204
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
