@@ -79,7 +79,7 @@ _________________________________________
 -----------------------------
 ![bitmoji](https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-3cfce0ae-3373-462c-9c9a-4ba199274535-v1.png?transparent=1&palette=1&width=200)
 ![bitmoji](https://sdk.bitmoji.com/render/panel/bc9e5458-1bc2-4d87-9f64-ad33ff348cb8-3cfce0ae-3373-462c-9c9a-4ba199274535-v1.png?transparent=1&palette=1&width=200)
-- ![Github stats](https://github-readme-stats.vercel.app/api?username=ashutosh102&show_icons=true&locale=en&theme=outrun)
+- ![Github stats](https://github-readme-stats.vercel.app/api?username=Ashutosh102&show_icons=true&locale=en&theme=outrun)
  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh102&theme=radical)
  [![Ashu's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh102&theme=xcode)](https://git.io/Ashutosh102)
 ### 📈Contribution Graph📈
