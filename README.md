@@ -11,6 +11,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Mohanty<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="40" height="40"></h1>
 <h3 align="center">A passionate developer from India</h3>
 <p align="center"><img src="https://user-images.githubusercontent.com/75971776/132128053-82c037ad-db80-4916-b447-29aa7327f0d8.gif" align="center"></p>
+<p align="center"><img src="https://metrics.lecoq.io/Ashutosh102?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&config.timezone=Asia%2FCalcutta" align="center"></p>
 
 <h3 align="center">Connect with me📱</h3>
 
